@@ -3,4 +3,7 @@
     <string name="frase">Escribe tu frase iest</string>
     <string name="mostrar">Mostrar</string>
     <string name="Frases">Escribe tu frase</string>
+    <string name="button1">Button</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="estudia_en_el_iest_anahuac">Estudia en el IEST Anahuac</string>
 </resources>
